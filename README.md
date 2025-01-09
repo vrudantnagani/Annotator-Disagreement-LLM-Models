@@ -54,9 +54,3 @@ The dataset is publicly available on [Hugging Face](https://huggingface.co/datas
 ## **Requirements**
 - Python 3.8+
 - Libraries: `transformers`, `torch`, `pandas`, `nltk`
-
-## **Usage**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
